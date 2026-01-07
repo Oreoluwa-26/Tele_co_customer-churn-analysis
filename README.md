@@ -1,4 +1,6 @@
 Customer Churn Analysis & Prediction
+
+
 Project Overview
 
 Customer churn is a major challenge for subscription-based businesses. This project focuses on analyzing customer behavior and building machine learning models to predict customer churn using a telecom dataset.
